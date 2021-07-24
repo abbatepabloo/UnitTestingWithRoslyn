@@ -171,3 +171,5 @@ ws.WorkspaceFailed += (server, eventArgs) => {
 - Remember to add all references needed for the semantical analysis. For example, in my case, I added the reference to the assembly **System.Runtime.Serialization.Primitives** because this module contains the attribute <strong>DataContract </strong>that I was looking for
 
 I hope this indications can help you out in the testing process. Enjoy it!
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/abbatepabloo)
